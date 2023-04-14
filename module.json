@@ -1,0 +1,20 @@
+{
+  "name": "chatgpt-reactions",
+  "title": "ChatGPT Reactions",
+  "description": "Generates unique messages based on weapon/spell used and the condition of the damaged actor.",
+  "author": "doguitar",
+  "version": "1.0.0",
+  "minimumCoreVersion": "10.0.0",
+  "compatibleCoreVersion": "10.0.0",
+  "url": "https://github.com/doguitar/chatgpt-plugin",
+  "manifest": "https://raw.githubusercontent.com/doguitar/chatgpt-plugin/master/module.json",
+  "download": "https://github.com/doguitar/chatgpt-plugin/archive/master.zip",
+  "license": "MIT",
+  "bugs": "https://github.com/doguitar/chatgpt-plugin/issues",
+  "readme": "https://github.com/doguitar/chatgpt-plugin/blob/master/README.md",
+  "changelog": "https://github.com/doguitar/chatgpt-plugin/blob/master/CHANGELOG.md",
+  "scripts": [
+    "scripts/chatgpt-reactions.js"
+  ],
+  "socket":true
+}
